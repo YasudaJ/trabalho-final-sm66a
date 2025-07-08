@@ -28,11 +28,13 @@ Este repositório contém o desenvolvimento de um sistema embarcado para de acio
 
 *(Esta seção deve ser detalhada ao longo do desenvolvimento)*
 
-1.  **Diagrama Elétrico:
+1.  Diagrama Elétrico:
 ![image](https://github.com/user-attachments/assets/1f1ccb4c-b55b-42ae-9317-8f56d2ffdf68)
+![image](https://github.com/user-attachments/assets/c2d2ed0c-4e48-4e10-9885-6a53549f4ce1)
+![image](https://github.com/user-attachments/assets/19c587b7-6149-4c4f-a906-a1352f441b36)
 
-2.  **Configuração do Ambiente:** Detalhamento das bibliotecas e configurações da IDE necessárias.
-3.  **Compilação e Upload:** Instruções para compilar o firmware e transferi-lo para o microcontrolador.
+3.  **Configuração do Ambiente:** Detalhamento das bibliotecas e configurações da IDE necessárias.
+4.  **Compilação e Upload:** Instruções para compilar o firmware e transferi-lo para o microcontrolador.
 
 ## 🚀 Cronograma e Evolução (Roadmap)
 
