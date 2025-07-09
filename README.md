@@ -49,9 +49,11 @@ Utilização das portas 32 (Botão SW1), 33 (Botão SW2), 37 (Led Azul), 38 (Led
 
 - [ ] Implementação do módulo de leitura de sensores.
 - Botão de Inicialização:
+
  ![image](https://github.com/user-attachments/assets/88fbce05-b54f-4be9-b7f6-074c2c7f7a8c)
 
 - Botão de Tempo:
+  
  ![image](https://github.com/user-attachments/assets/db7275da-1038-4bc6-afeb-b7eef1018e84)
 
 - [ ] Implementação da lógica de controle.
