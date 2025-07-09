@@ -35,6 +35,7 @@ Utilização das portas 32 (Botão SW1), 33 (Botão SW2), 37 (Led Azul), 38 (Led
 
 3.  Configuração do Ambiente: 
  - Energia.h
+\\
  Código feito a partir do Energia e convertido para o Code Composer Studio.
 
 4.  Compilação e Upload:
