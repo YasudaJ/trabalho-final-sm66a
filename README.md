@@ -45,6 +45,8 @@ Utilização das portas 32 (Botão SW1), 33 (Botão SW2), 37 (Led Azul), 38 (Led
 ## 🚀 Cronograma e Evolução (Roadmap)
 
 - [ ] Definição da arquitetura de software.
+- ![image](https://github.com/user-attachments/assets/c2d03bdf-6285-45c6-8fc9-9924004ef966)
+
 - [ ] Implementação do módulo de leitura de sensores.
 - [ ] Implementação da lógica de controle.
 - [ ] Validação e testes funcionais.
