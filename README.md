@@ -4,13 +4,13 @@ Acionamento de Música com TMC123G
 
 Este repositório contém o desenvolvimento de um sistema embarcado para acionar uma trilha sonora. O projeto foi concebido como parte dos requisitos avaliativos da disciplina SM66A - Sistemas Microcontrolados.
 
-## ✨ Funcionalidades Implementadas (mínimo de 1)
+## ✨ Funcionalidades Implementadas 
 
 - Reprodução de Música
 - Controle de Início e Velocidade da Música
 - Visualização da batida com LEDs
 
-## ✨ Periféricos Utilizados (mínimo de 4)
+## ✨ Periféricos Utilizados 
 
 - GPIO - Piezo Buzzer, RGB LEDs, Botões;
 - PWM - Intensidade da cor do LED, Sinal Quadrado para o buzzer;
@@ -18,7 +18,7 @@ Este repositório contém o desenvolvimento de um sistema embarcado para acionar
 - Timer - Durações e frequências para o Delay e Tone utilizados no código.
 
 
-## 🛠️ Hardware e Componentes (mínimo 1)
+## 🛠️ Hardware e Componentes 
 
 * Microcontrolador: TM4C123G
 * Sensores: Botões de Entrada
