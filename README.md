@@ -26,15 +26,21 @@ Este repositório contém o desenvolvimento de um sistema embarcado para de acio
 
 ## ⚙️ Procedimento de Montagem e Execução
 
-*(Esta seção deve ser detalhada ao longo do desenvolvimento)*
-
 1.  Diagrama Elétrico:
 ![image](https://github.com/user-attachments/assets/1f1ccb4c-b55b-42ae-9317-8f56d2ffdf68)
 ![image](https://github.com/user-attachments/assets/c2d2ed0c-4e48-4e10-9885-6a53549f4ce1)
 ![image](https://github.com/user-attachments/assets/19c587b7-6149-4c4f-a906-a1352f441b36)
 
-3.  **Configuração do Ambiente:** Detalhamento das bibliotecas e configurações da IDE necessárias.
-4.  **Compilação e Upload:** Instruções para compilar o firmware e transferi-lo para o microcontrolador.
+Utilização das portas 32 (Botão SW1), 33 (Botão SW2), 37 (Led Azul), 38 (Led Verde), 39 (Led Vermelho), 40 (Piezo Buzzer). 
+
+3.  Configuração do Ambiente: 
+ - Energia.h
+ Código feito a partir do Energia e convertido para o Code Composer Studio.
+
+4.  Compilação e Upload:
+- Texas Instruments TM4C123
+- BOOSTXL-MKII
+ É necessário acoplar o BOOSTXL-MKII no TM4C123 de acordo com o mapeamento do datasheet e carregar o código pelo Code Composer Studio fazendo a importação do Energia. 
 
 ## 🚀 Cronograma e Evolução (Roadmap)
 
