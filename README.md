@@ -2,7 +2,7 @@ Acionamento de Música com TMC123G
 
 ## 📝 Descrição Técnica
 
-Este repositório contém o desenvolvimento de um sistema embarcado para de acionar uma trilha sonora. O projeto foi concebido como parte dos requisitos avaliativos da disciplina SM66A - Sistemas Microcontrolados.
+Este repositório contém o desenvolvimento de um sistema embarcado para acionar uma trilha sonora. O projeto foi concebido como parte dos requisitos avaliativos da disciplina SM66A - Sistemas Microcontrolados.
 
 ## ✨ Funcionalidades Implementadas (mínimo de 1)
 
