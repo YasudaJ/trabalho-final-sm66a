@@ -57,4 +57,9 @@ Utilização das portas 32 (Botão SW1), 33 (Botão SW2), 37 (Led Azul), 38 (Led
  ![image](https://github.com/user-attachments/assets/db7275da-1038-4bc6-afeb-b7eef1018e84)
 
 - [ ] Implementação da lógica de controle.
+
+![image](https://github.com/user-attachments/assets/e42af0fc-c6b6-4802-ba0c-fe59bef529c1)
+
 - [ ] Validação e testes funcionais.
+
+https://github.com/user-attachments/assets/fda51643-a81d-4127-86f5-22f42b548d38
